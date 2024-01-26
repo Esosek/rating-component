@@ -130,6 +130,14 @@ button:focus {
 
 #thanks-content {
   text-align: center;
+  opacity: 0;
+  transform: translateY(-20%);
+  transition: opacity 1s, transform 500ms;
+}
+
+#thanks-content.open {
+  transform: translateY(0);
+  opacity: 1;
 }
 
 .selected-text {
