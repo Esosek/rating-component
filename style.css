@@ -93,17 +93,17 @@ button:focus {
   gap: 0.5rem;
 }
 
-.rating {
+.rating-btn {
   border: none;
   transition: color 150ms, background-color 150ms;
 }
 
-.rating:hover {
+.rating-btn:hover {
   background-color: var(--clr-primary);
   color: var(--clr-neutral-100);
 }
 
-.rating:focus {
+.rating-btn:focus {
   background-color: var(--clr-neutral-400);
   color: var(--clr-neutral-100);
 }
