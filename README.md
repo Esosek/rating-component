@@ -46,6 +46,8 @@ Users should be able to:
 
 I practiced how to dynamically change content with vanilla JavaScript. I also learned that SSG with Astro is not suitable for such projects, atleast that there were no benefits using it.
 
+Practiced "display" animation.
+
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
